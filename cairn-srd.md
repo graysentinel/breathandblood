@@ -4,16 +4,16 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Breath & Blood System Reference Document (v.1.0)
 {: .no_toc }
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
+**Breath & Blood** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Peruse the [repo](https://github.com/graysentinel/breathandblood/).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Breath & Blood** is an adventure game for one facilitator (the **Overseer**) and (usually) at least one other player.
+Players act as skilled and capable explorers and adventurers, making a hard living in a world littered with lost magic and decaying ruins.
 
 <details close markdown="block">
   <summary id="index">
@@ -26,10 +26,10 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 ## Overview
 
-**Cairn** was written with the following design philosophies in mind:
+**Breath & Blood** was written with the following design philosophies in mind:
 
 ### Neutrality
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+The Overseer's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Classless
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
@@ -47,7 +47,7 @@ Characters are changed through in-world advancement, gaining new skills and abil
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
 
 ### Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+The Overseer and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
 
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
@@ -55,7 +55,7 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Principles for Wardens
+## Principles for Overseers
 ### Information
 - Provide useful information about the game world as the characters explore it.
 - Players do not need to roll dice to learn about their circumstances.
@@ -151,22 +151,22 @@ Finally, roll for their **age** (2d20+10).
 
 #### Ability Scores
 Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+**Blood (BLD)**, **Sight (SGT)**, and **Grit (GRT)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
 <details markdown="block">
   <summary>
 Expand For Example
  </summary>
- Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**.
+ Ines rolls for her character's **BLD**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **SGT** and a **13** for **GRT**. She decides to swap the **12** and the **9**, for a character with **9 BLD**, **12 SGT** and **13** **GRT**.
 </details>
 
 ### Hit Protection
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+Roll 1d6 to determine your PC's starting **Breath** (HP), which reflects their ability to avoid damage in combat. Breath does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's Breath exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Overseer's discretion.
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
 
@@ -429,7 +429,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Equipment List (Prices in Gold Pieces)
+## Equipment List (Prices in Silver Pieces)
 
 #### Armor
 
@@ -488,9 +488,12 @@ If you would like something closer to traditional classes, refer to the list of 
 
 <p></p>
 
-## Optional Gear Packages
+## Starting Classes
 
-#### Cleric
+#### Crusader
+
+**Healing Hands** - The touch of your hands brings succor to the wounded. Once per day, spare a wounded or dying creature's life with a touch.
+**Favor** - You are favored by a deity. When you perform a righteous or pious act according to your god's tenets, add 1 to your Favor Pool. You may spend your entire accumulated Favor Pool to add that value to any attack roll or saving throw.
 
 |                                   |
 | --------------------------------- |
@@ -501,29 +504,24 @@ If you would like something closer to traditional classes, refer to the list of 
 | Holy Symbol (_Ward_ once per day) |
 | Cloak of the Order                |
 
-#### Dowser
-
-|                                           |
-|-------------------------------------------|
-|Sickle (d6)                                |
-|Patchwork Doublet (+1 Armor)               |
-|Dowsing Rod                                |
-|Eyestone (_Sense_ if placed in fresh water)|
-|Worn Map                                   |
-|Spyglass                                   |
-
 #### Dwarf
+
+**Infravision** - In the darkness, your eyes can detect heat signatures from living creatures, and distinguish warm from cold.
+**Cunning Gaze** - You can detect mechanical traps with a 2-in-6 chance.
 
 ||
 |-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
+|Axe (d8)                                 |
+|Brigandine (1 Armor, bulky)              |
 |Trowel                                   |
-|Jar of Forest Ants                       |
+|Pick                                     |
 |Poisonous mushroom                       |
 |Hand Drill                               |
 
 #### Elf
+
+**Starsight** - With the faintest source of light, you can see almost as well in the dark as you do during the day.
+**Heightened Senses** - Your eyes and ears are sharper than most. You detect secret doors and hear soft noises on a 2-in-6 chance.
 
 ||
 |-----------------------------------------|
@@ -536,12 +534,15 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Fighter
 
+**Any Means Necessary** - Instead of attacking, make a BLD saving throw. On a success, you may blind, knock down or otherwise temporarily disadvantage your opponent.
+**Cleave** - When your attack kills an opponent, immediately attack again.
+
 ||
 |---------------------------------------|
 |Glaive (d10, bulky)                    |
-|Scimitar (d8)                          |
-|Shortsword (d6)                        |
-|Shortsword (d6)                        |
+|Side Sword (d6)                        |
+|Shield (+1 Armor)                      |
+|Gambeson (+1 Armor)                    |
 |Tobacco Pouch & Pipe                   |
 |Dice Set                               |
 
@@ -557,6 +558,8 @@ If you would like something closer to traditional classes, refer to the list of 
 |Cart (+4 slots, bulky)         |
 
 #### Knight
+
+**Noble Bearing** - NPCs of your own culture that you encounter receive a +2 bonus to any reaction checks.
 
 |                            |
 | -------------------------- |
@@ -578,6 +581,17 @@ If you would like something closer to traditional classes, refer to the list of 
 |Ragged Clothing (hidden pockets)         |
 |Leycap (x2, see Relics)                  |
 
+#### Scout
+
+||
+|------------------------------------------|
+|Longbow (d8, bulky)                       |
+|Hatchet (d6)                              |
+|Padded Leathers (1 Armor)                 |
+|Large Trap                                |
+|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
+|Thundering Horn                           |
+
 #### Thief
 
 ||
@@ -589,17 +603,6 @@ If you would like something closer to traditional classes, refer to the list of 
 |Grappling Hook                           |
 |Metal File                               |
 
-#### Ranger
-
-||
-|------------------------------------------|
-|Longbow (d8, bulky)                       |
-|Hatchet (d6)                              |
-|Padded Leathers (1 Armor)                 |
-|Large Trap                                |
-|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
-|Thundering Horn                           |
-
 [back to index](#index)
 <p></p>
 
@@ -607,11 +610,11 @@ If you would like something closer to traditional classes, refer to the list of 
 ### Abilities
 Each of the three **abilities** are used in different circumstances (see **saves**, below).
 
-**Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
+**Blood (BLD)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
 
-**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
+**Sight (SGT)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Grit (GRT)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 
 ### Saves
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
