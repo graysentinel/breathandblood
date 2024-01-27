@@ -179,11 +179,9 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Choose a [**Starting Class**](/cairn-srd#starting-classes). This represents your character's profession and training at the start of their career. This does not limit them in any way from learning something or utilizing any item.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
-
-If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
 
 <p></p>
 
@@ -492,7 +490,7 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Crusader
 
-**Healing Hands** - The touch of your hands brings succor to the wounded. Once per day, spare a wounded or dying creature's life with a touch.
+**Divine Respite** - The touch of your hands brings succor to the wounded. Once per day, spare a wounded or dying creature's life with a touch.
 **Favor** - You are favored by a deity. When you perform a righteous or pious act according to your god's tenets, add 1 to your Favor Pool. You may spend your entire accumulated Favor Pool to add that value to any attack roll or saving throw.
 
 |                                   |
@@ -534,8 +532,8 @@ If you would like something closer to traditional classes, refer to the list of 
 
 #### Fighter
 
-**Any Means Necessary** - Instead of attacking, make a BLD saving throw. On a success, you may blind, knock down or otherwise temporarily disadvantage your opponent.
-**Cleave** - When your attack kills an opponent, immediately attack again.
+**Any Means Necessary** - Instead of attacking, make a BLD saving throw. On a success, you may blind, knock down, interrupt, or otherwise temporarily disadvantage your opponent.
+**Cleave** - When your attack kills an opponent, you may immediately attack again.
 
 ||
 |---------------------------------------|
@@ -547,6 +545,9 @@ If you would like something closer to traditional classes, refer to the list of 
 |Dice Set                               |
 
 #### Friar
+
+**Worldly** - You talk, and listen, and learn. If the information is from your culture and is possible to know, you know it. If it's from a different culture, you have a 3-in-6 chance of knowing it.
+**Bedside Manner** - A wounded character in your care recovers Critical Damage in half the usual time.
 
 ||
 |-------------------------------|
@@ -560,6 +561,7 @@ If you would like something closer to traditional classes, refer to the list of 
 #### Knight
 
 **Noble Bearing** - NPCs of your own culture that you encounter receive a +2 bonus to any reaction checks.
+**Oath-Sworn** - You are bound to the code of the knight and service to your liege-lord. Your code requires you to seek out the strongest or most worthy opponent in any battle. When you do this, your attacks against this foe are **enhanced**.
 
 |                            |
 | -------------------------- |
@@ -570,18 +572,10 @@ If you would like something closer to traditional classes, refer to the list of 
 | Manacles                   |
 | Fine Rope                  |
 
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)                  |
-
 #### Scout
+
+**Forage** - While traveling in the wilderness, no one in your group is required to consume rations.
+**Sniper** - When attacking an unaware target with a ranged weapon, deal SGT damage.
 
 ||
 |------------------------------------------|
@@ -589,10 +583,13 @@ If you would like something closer to traditional classes, refer to the list of 
 |Hatchet (d6)                              |
 |Padded Leathers (1 Armor)                 |
 |Large Trap                                |
-|Bloodhound &#124; 2 HP, 12 DEX, bite (d6) |
+|Arrows (20)                               |
 |Thundering Horn                           |
 
 #### Thief
+
+**Just Lucky I Guess** - Once per day, when you get a roll you don't like, re-roll it.
+**Backstab** - When attacking an unaware target with a melee weapon, deal BLD damage.
 
 ||
 |-----------------------------------------|
@@ -602,6 +599,20 @@ If you would like something closer to traditional classes, refer to the list of 
 |Caltrops                                 |
 |Grappling Hook                           |
 |Metal File                               |
+
+#### Wizard
+
+**Arcane Training** - Whenever you cast a spell, roll a GRT save. If you succeed, do not add a Fatigue.
+**Keen Mind** - You may stack 2 Spellbooks per Inventory Slot.
+
+||
+|-----------------------------------------|
+|Fizzled Staff (d8, bulky)                |
+|Dagger (d6)                              |
+|Spellbook (random spell)                 |
+|Spellbook (random spell)                 |
+|Ragged Clothing (hidden pockets)         |
+|Leycap (x2, see Relics)                  |
 
 [back to index](#index)
 <p></p>
@@ -689,19 +700,25 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 ### Rounds
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
-### Actions
+### Setting the Scene: Tactical Action Combat
+In **Breath & Blood**, each combat round is built from declared actions, but nothing actually resolves until actions are declared by all participants. Think of it like directing a combat scene in a film. You want to set up all the pieces and have everything placed before you call "action!" and have the camera rolling. Because of this, slower actors will actually _declare_ their actions first. Those who react faster will have the chance to try and interrupt actions by attacking, maneuvering, or otherwise altering the situation before time rolls forward and the actions resolve in order.
+
+### Fast and Slow Actions
+Action declaration is divided into three phases: Fast PCs, NPCs, and Slow PCs. Slow PCs will declare their actions first. NPCs declare their actions next, and finally fast PCs may take what action they deem necessary to change the landscape of the battle.
+
+### Combat Begins
+All PCs involved in the combat roll a Sight saving throw. Any character who succeeds may act in the Fast PCs phase. All who fail must declare their actions in the Slow PC phase.
+
+### Actions and Action Order
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
-
-### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+Each round, the PCs declare what action they are taking. As actions are declared, the Overseer will build a list, starting at the bottom and ending at the top. If there is a conflict to determine whose action will go first, compare their SGT scores. A higher SGT score will go higher in the order than a lower one. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
 
 <details markdown="block">
   <summary>
-Expand For Example
- </summary>
- _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+    Expand for Example
+  </summary>
+  _Leo and Brock are fighting a wyvern hatchling at the edge of a cliff. Leo fails his SGT saving throw and must declare in the Slow PC phase. Brock's SGT save was a success, and he declares in the Fast PC Phase. Leo declares first: he is going to close in and attack the wyvern. The wyvern declares next: it is going to sting Leo with its tail, and then immediately take flight. Brock, a Fighter, decides that he will try to use his ability called **Any Means Necessary** to interrupt the wyvern's attack and knock it back down to the ground. With all actions declared, the Action Order is now: Brock - **Any Means Necessary**, Wyvern - Sting and Fly, Leo - Close and Attack. If Brock is successful using his ability, the wyvern won't be able to move, allowing Leo to get his attack in before the creature takes flight._
 </details>
 
 ### Attacking & Damage
