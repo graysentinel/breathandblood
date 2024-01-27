@@ -449,23 +449,23 @@ What drove your character out of their home and their comfortable life and into 
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
-|Gambeson (+1 Armor)          |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)       |60   |
+|Shield (+1 Armor)            |100   |
+|Helmet (+1 Armor)            |100   |
+|Gambeson (+1 Armor)          |25   |
+|Brigandine (1 Armor, bulky)  |75   |
+|Chainmail (2 Armor, bulky)   |250   |
+|Plate (3 Armor, bulky)       |1000   |
 
 #### Weapons
 
 | |     |
 |-----------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |5    |
-|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |10   |
-|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |20   |
+|Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)            |10   |
+|Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)           |50   |
+|Halberd, War Hammer, Long Sword, etc. (d10 damage, bulky)  |250  |
 |Sling (d4 damage)                                          |5    |
-|Bow (d6 damage, bulky)                                     |20   |
-|Crossbow (d8 damage, bulky)                                |30   |
+|Bow (d6 damage, bulky)                                     |100  |
+|Crossbow (d8 damage, bulky)                                |250  |
 
 #### Gear & Tools
 
@@ -477,15 +477,15 @@ What drove your character out of their home and their comfortable life and into 
 |Book                                         |50              |Lockpicks          |25        |
 |Bucket                                       |5               |Manacles           |10        |
 |Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
+|Cart (+4 slots, bulky)                       |300             |Mirror             |5         |
+|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|50|
 |Chalk                                        |1               |Net                |10        |
 |Chisel                                       |5               |Oilskin Bag        |5         |
 |Cook Pots                                    |10              |Pick               |10        |
 |Crowbar                                      |10              |Pulley             |10        |
 |Drill (Manual)                               |10              |Pole (10ft)        |5         |
 |Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
+|Fire Oil                                     |100             |Rations (three day's worth)|10        |
 |Fishing Rod                                  |10              |Rope (25ft)        |5         |
 |Glass Marbles                                |5               |Saw                |5         |
 |Glue                                         |5               |Sack               |5         |
@@ -494,10 +494,10 @@ What drove your character out of their home and their comfortable life and into 
 |Hammer                                       |5               |Spike              |1         |
 |Holy Water                                   |25              |Spiked Boots       |5         |
 |Horn                                         |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
+|Horse (+4 slots)                             |750             |Tar                |10        |
 |Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
 |Incense                                      |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
+|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|500    |
 |Lantern & Oil                                |10              |Wolfsbane          |10        |
 
 <p></p>
@@ -708,10 +708,10 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3sp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+The most common coin is the silver mark (sp). This is equivalent to 5 copper bits (cp). Wealth and bookkeeping is often done in gold sovereigns (gp), but actual coins of gold are rare. More common are items such as jewelry, craftwork such as vases and candlesticks, and other items made of precious metals. Many folk across the world also deal in hacksilver; literally pieces of valuable items hacked into bits.
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
