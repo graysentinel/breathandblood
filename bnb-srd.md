@@ -31,8 +31,8 @@ Players act as skilled and capable explorers and adventurers, making a hard livi
 ### Neutrality
 The Overseer's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
-### Classless
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+### Classless Progression
+A character's role or skills are not limited by a single class. Starting classes grant template abilities to guide later progression, and allow the players to use archetypes to get up and running quickly in the fantasy milieu. After character creation, their roles and abilities are defined by the equipment they carry and their experiences gained during their adventures.
 
 ### Death
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
@@ -321,15 +321,31 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 | 4          | Entertainer | 9    | Respected |
 | 5          | Honest      | 10   | Wise      |
 
-#### Misfortunes
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+## Character Inciting Incident
+
+What drove your character out of their home and their comfortable life and into the life of adventuring? You can roll randomly on the table below, or you can choose something that you think fits with your own idea. If you're starting a new campaign, your Overseer may have an idea in mind for a shared inciting incident for all of the characters.
+
+| Result (d66) | Incident | Result (d66) | Incident |
+| ------------ | -------- | ------------ | -------- |
+| 11 | Lost everything in a fire | 41 | Robbed and left for dead by bandits |
+| 12 | Betrayed by a friend or lover | 42 | Disgraced or ruined by a rival |
+| 13 | Survived a terrible disease | 43 | Exiled from homeland for treason, real or imagined |
+| 14 | Lost a duel | 44 | Famine drove you away from home |
+| 15 | Political unrest forced you to flee | 45 | Deeply indebted to dangerous folk |
+| 16 | Corrupt officials drove you to ruin | 46 | Apocalyptic visions haunt your nightmares |
+| 21 | Cursed by a witch | 51 | Abandoned by your family or clan |
+| 22 | Barely escaped a monster | 52 | Condemned to die for crimes not your own |
+| 23 | Only survivor of a magical disaster | 53 | Betrayed by a family member |
+| 24 | A glimpse of something horrifying beneath the veil | 54 | Family land seized by corrupt noble |
+| 25 | Home destroyed by a curse of undeath | 55 | Disowned and disinherited |
+| 26 | Marked by a demon, devil or aberration | 56 | Title seized by liege lord |
+| 31 | Gambled away everything you had | 61 | Barely escaped a cult with your life |
+| 32 | Killed someone in a rage or by accident | 62 | Lost and abandoned during an expedition |
+| 33 | Underestimated a weak-seeming enemy | 63 | Survived your own execution |
+| 34 | Drank every penny you had to your name | 64 | Exiled for a sacreligious act |
+| 35 | Treated the wrong person with contempt | 65 | Fled a tyrant |
+| 36 | Deserted from a battle | 66 | You have your vengeance, but it cost you everything |
 
 <p></p>
 
@@ -486,53 +502,56 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 <p></p>
 
-## Starting Classes
+## Ancestry
 
-#### Crusader
+At character creation, choose an ancestry. Most characters will be of human stock. Fantastic species like elves, dwarves and others may be available and examples are given below. Check with your Overseer if you have questions.
 
-**Divine Respite** - The touch of your hands brings succor to the wounded. Once per day, spare a wounded or dying creature's life with a touch.
-**Favor** - You are favored by a deity. When you perform a righteous or pious act according to your god's tenets, add 1 to your Favor Pool. You may spend your entire accumulated Favor Pool to add that value to any attack roll or saving throw.
+#### Human Types
+
+| Human - Frontier      |
+| --------------------- |
+| **Hardy** - Add Fatigue every 2 days that you are **deprived**. |
+| **Wild-Wise** - You know the signs and means of danger on the frontier, and can recognize them when you see them. |
+
+| Human - Burgher       |
+| --------------------- |
+| **Talk the Talk** - You know your way around towns and villages. You know where things are found and how to drive a bargain. |
+| **Of Gods and Kings** - The trappings of culture are imprinted upon you. You have a fundamental understanding of your cultures religions and hierarchies. |
+
+#### Fantastic Types
+
+| Elf                   |
+| --------------------  |
+| **Starsight** - With the faintest source of light, you can see almost as well in the dark as you do during the day. |
+| **Heightened Senses** - Your eyes and ears are sharper than most. You detect secret doors and hear soft or distant noises on a 2-in-6 chance. |
+
+| Dwarf                 |
+| --------------------- |
+| **Infravision** - In the darkness, your eyes can detect heat signatures from living creatures, and distinguish warm from cold. |
+| **Cunning Gaze** - You can detect mechanical traps with a 2-in-6 chance. |
+
+## Starting Archetypes
+
+Basic equipment packages and starting abilities are given below as templates. These are not intended to be exclusive, and they do not affect how any character can grow from their starting point. These represent a character's skills and abilities at the time their adventuring career **begins**.
+
+#### Commoner
+
+**Power of the People** - You are entirely typical for your ancestry. Among your people, you are essentially invisible. Folk of your own culture will treat you according to your (low) station.
+
+**Trade** - You have always worked for a living until you were no longer able to do so. You have knowledge of a trade, and you can earn a basic living in any civilization with your skills.
 
 |                                   |
 | --------------------------------- |
-| War Hammer (d10, bulky)           |
-| Chainmail (2 Armor, bulky)        |
-| Gauntlets (+1 Armor)              |
-| Cleansing Blade (d6)              |
-| Holy Symbol (_Ward_ once per day) |
-| Cloak of the Order                |
+| Cudgel (d6)                       |
+| Jug of Weak Ale                   |
+| Cookpot                           |
+| Simple Clothing                   |
 
-#### Dwarf
-
-**Infravision** - In the darkness, your eyes can detect heat signatures from living creatures, and distinguish warm from cold.
-**Cunning Gaze** - You can detect mechanical traps with a 2-in-6 chance.
-
-||
-|-----------------------------------------|
-|Axe (d8)                                 |
-|Brigandine (1 Armor, bulky)              |
-|Trowel                                   |
-|Pick                                     |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
-
-**Starsight** - With the faintest source of light, you can see almost as well in the dark as you do during the day.
-**Heightened Senses** - Your eyes and ears are sharper than most. You detect secret doors and hear soft noises on a 2-in-6 chance.
-
-||
-|-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect Magic_)    |
-|Golden Flute                             |
-|Air Bladder                              |
 
 #### Fighter
 
 **Any Means Necessary** - Instead of attacking, make a BLD saving throw. On a success, you may blind, knock down, interrupt, or otherwise temporarily disadvantage your opponent.
+
 **Cleave** - When your attack kills an opponent, you may immediately attack again.
 
 ||
@@ -544,9 +563,11 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 |Tobacco Pouch & Pipe                   |
 |Dice Set                               |
 
+
 #### Friar
 
 **Worldly** - You talk, and listen, and learn. If the information is from your culture and is possible to know, you know it. If it's from a different culture, you have a 3-in-6 chance of knowing it.
+
 **Bedside Manner** - A wounded character in your care recovers Critical Damage in half the usual time.
 
 ||
@@ -558,9 +579,11 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 |Folk Songbook                  |
 |Cart (+4 slots, bulky)         |
 
+
 #### Knight
 
 **Noble Bearing** - NPCs of your own culture that you encounter receive a +2 bonus to any reaction checks.
+
 **Oath-Sworn** - You are bound to the code of the knight and service to your liege-lord. Your code requires you to seek out the strongest or most worthy opponent in any battle. When you do this, your attacks against this foe are **enhanced**.
 
 |                            |
@@ -574,8 +597,9 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 
 #### Scout
 
-**Forage** - While traveling in the wilderness, no one in your group is required to consume rations.
-**Sniper** - When attacking an unaware target with a ranged weapon, deal SGT damage.
+**Forage** - While traveling in the wilderness, in a biome with which you are intimately familiar, no one in your group is required to consume rations.
+
+**Sniper** - When attacking an unaware target with a ranged weapon, deal GRT damage.
 
 ||
 |------------------------------------------|
@@ -589,11 +613,12 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 #### Thief
 
 **Just Lucky I Guess** - Once per day, when you get a roll you don't like, re-roll it.
+
 **Backstab** - When attacking an unaware target with a melee weapon, deal BLD damage.
 
 ||
 |-----------------------------------------|
-|Two daggers (d6+d6)                      |
+|Twin Daggers (d6+d6)                     |
 |Hooded Jerkin (1 Armor)                  |
 |Lockpicks                                |
 |Caltrops                                 |
@@ -603,16 +628,39 @@ See the **Equipment List** for related armor, damage, and slot values. Smaller i
 #### Wizard
 
 **Arcane Training** - Whenever you cast a spell, roll a GRT save. If you succeed, do not add a Fatigue.
+
 **Keen Mind** - You may stack 2 Spellbooks per Inventory Slot.
 
 ||
 |-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
+|Gnarled Staff (d8, bulky)                |
 |Dagger (d6)                              |
 |Spellbook (random spell)                 |
 |Spellbook (random spell)                 |
 |Ragged Clothing (hidden pockets)         |
 |Leycap (x2, see Relics)                  |
+
+
+### Fantasy Ancestries
+
+Basic starting equipment is provided for those who begin as an alternate ancestry as a template. These are examples; work with your Overseer to begin your character with the tools and trappings which are right for where they come from.
+
+| Dwarf                                   |
+|-----------------------------------------|
+|Axe (d8)                                 |
+|Trowel                                   |
+|Pick                                     |
+|Poisonous mushroom                       |
+|Hand Drill                               |
+
+
+| Elf                                     |
+|-----------------------------------------|
+|Recurve Bow (d8)                         |
+|Arrows (20)                              |
+|Spellbook (_Charm_ or _Detect Magic_)    |
+|Golden Flute                             |
+|Air Bladder                              |
 
 [back to index](#index)
 <p></p>
