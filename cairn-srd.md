@@ -161,7 +161,7 @@ Expand For Example
 </details>
 
 ### Hit Protection
-Roll 1d6 to determine your PC's starting **Breath** (HP), which reflects their ability to avoid damage in combat. Breath does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's Breath exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+Roll 1d6 to determine your PC's starting **Breath** (HP), which reflects their ability to avoid damage in combat. Breath does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's Breath exactly to 0, the player must roll on the [**Scars**](#scars-1) table.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
@@ -179,7 +179,7 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Choose a [**Starting Class**](/cairn-srd#starting-classes). This represents your character's profession and training at the start of their career. This does not limit them in any way from learning something or utilizing any item.
+Choose a [**Starting Class**](#starting-classes). This represents your character's profession and training at the start of their career. This does not limit them in any way from learning something or utilizing any item.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
@@ -730,6 +730,9 @@ Expand For Example
  </summary>
  _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining._
 </details>
+
+### Shields Shall Splinter
+A character wielding a shield in combat may decide to sacrifice that shield in order to entirely negate a single incoming attack. The shield is ruined, and must be discarded.
 
 ### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
