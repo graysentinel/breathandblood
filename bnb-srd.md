@@ -748,6 +748,11 @@ Anyone can cast a spell by holding a Spellbook in both hands and reading its con
 ### Rounds
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
+### The Battlefield
+Combat in **Breath & Blood** is divided into _zones_. Each zone represents an abstracted portion of the surrounding environment. Zones may be separated by distance, by barriers, or by other means. Generally speaking, anyone inside a zone can make a melee attack anyone else inside that zone. A ranged weapon can shoot accurately from one zone away, and some spells may be effective from two zones away. Generally speaking, anyone farther away than two zones is effectively outside of that engagement.
+
+Some intense, close-quarters skirmishes may only have one zone. Other, more open areas might have three or four in various configurations.
+
 ### Setting the Scene: Tactical Action Combat
 In **Breath & Blood**, each combat round is built from declared actions, but nothing actually resolves until actions are declared by all participants. Think of it like directing a combat scene in a film. You want to set up all the pieces and have everything placed before you call "action!" and have the camera rolling. Because of this, slower actors will actually _declare_ their actions first. Those who react faster will have the chance to try and interrupt actions by attacking, maneuvering, or otherwise altering the situation before time rolls forward and the actions resolve in order.
 
@@ -758,7 +763,7 @@ Action declaration is divided into three phases: Fast PCs, NPCs, and Slow PCs. S
 All PCs involved in the combat roll a Sight saving throw. Any character who succeeds may act in the Fast PCs phase. All who fail must declare their actions in the Slow PC phase.
 
 ### Actions and Action Order
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+On their turn, a character may take one action. This may be casting a spell, attacking, making a second move, or some other reasonable action. Moving one zone is an action, as is making any kind of attack.
 
 Each round, the PCs declare what action they are taking. As actions are declared, the Overseer will build a list, starting at the bottom and ending at the top. If there is a conflict to determine whose action will go first, compare their SGT scores. A higher SGT score will go higher in the order than a lower one. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
 
