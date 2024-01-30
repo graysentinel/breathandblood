@@ -580,18 +580,18 @@ Basic equipment packages and starting abilities are given below as templates. Th
 |Cart (+4 slots, bulky)         |
 
 
-#### Knight
+#### Squire
 
 **Noble Bearing** - NPCs of your own culture that you encounter receive a +2 bonus to any reaction checks.
 
-**Oath-Sworn** - You are bound to the code of the knight and service to your liege-lord. Your code requires you to seek out the strongest or most worthy opponent in any battle. When you do this, your attacks against this foe are **enhanced**.
+**Oath-Sworn** - You are bound to the code of the knighthood to which you aspire, and service to your liege-lord. Among other things, your code requires you to seek out the strongest or most worthy opponent in any battle. When you do this, your attacks against this foe are **enhanced**.
 
 |                            |
 | -------------------------- |
-| Longsword (d10, bulky)     |
-| Chainmail (2 Armor, bulky) |
+| Arming Sword (d8)          |
+| Gambeson (1 Armor, bulky)  |
 | Helmet (+1 Armor)          |
-| Heraldic Cape              |
+| Wooden Shield (+1 Armor)   |
 | Manacles                   |
 | Fine Rope                  |
 
@@ -799,15 +799,15 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
 ### Blast
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+Attacks with the **blast** quality affect all targets in the noted battlefield zone(s), rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
 
 ### Critical Damage
 Damage that reduces a target's HP below zero decreases a target's STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize, but gain 1 Fatigue. If left untreated, they die within the hour.
 
 ### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
+If a PC's BLD is reduced to 0, they die. If their SGT is reduced to 0, they are effectively blinded and unable to make sense of their surroundings. If their GRT is reduced to 0, they are panicked, exhausted or simply unable to go on.
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
 
 ### Scars
@@ -823,7 +823,7 @@ Attacks against detachments by individuals are **impaired** (excluding blast dam
 Attacks against individuals by detachments are **enhanced** and deal blast damage.
 
 ### Retreat
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+Running away from a dire situation always requires a successful SGT save, as well as a safe destination to run to.
 
 ### Scars
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the _total_ damage taken:
@@ -845,6 +845,67 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 [back to index](#index)
 <p></p>
+
+## Exploration - Dungeons
+
+Exploration of tight, ruined, protected or otherwise dangerous locations is a core part of the "adventuring" experience. Whether these are mythical underground dungeons that shift and change, tombs of ancient kings, or the forlorn ruins of forgotten civilizations, it's hard to deny that "dungeons" are one of the most common ways to begin a new adventure.
+
+Below are some ideas about how to tackle the exploration of these "dungeon" spaces in Breath & Blood.
+
+### What Is A Dungeon, Anyway?
+
+Any location which has points of interest which require careful exploration, where movement is constricted to predetermined paths, and where tricks, treasure and threats abound can be called a dungeon. This doesn't have to be a below-ground structure dedicated to the imprisonment of unfortunate individuals. A ruined keep at the edge of civilization, a sunken temple to a fallen god or a burial chamber are all examples. A living bandit fort crawling with guards might also be played out like a dungeon. The "dungeon" takes many forms, but all of them share these certain elements:
+
+- Restricted Movement
+- Slow Exploration
+- Threat Lurks Around Every Corner
+
+Once you have these elements in place, you can play it as a dungeon.
+
+### Dungeon Design
+
+There are many treatises on good dungeon design, and you are encouraged to read them. For the purposes of Breath & Blood, you can consider dungeon design largely in two categories.
+
+The first is the traditional dungeon map. This is a map drawn on graph paper, with each location marked and keyed with some description. Whether it is populated ahead of time by the Overseer, or on the fly with dice rolls and random tables, this represents the layout of an actual physical location in the game world.
+
+The second possibility is a dungeon diagram. Instead of an architectural blueprint, the dungeon diagram instead looks more like a flow chart. Points of interest are marked, and abstract lines representing connections between them show the paths that can be taken. While this method sacrifices some grounded realism, it can make for a far easier time for those who want to randomize a dungeon on the fly, or for those who don't feel that the artistic pursuit of dungeon mapping is for them. The diagram also obviously represents a real space, but instead of specific measurements and layouts, it shows the flow of progression.
+
+Either method is supported by the dungeon exploration rules of Breath & Blood.
+
+### Exploring a Dungeon
+
+#### Dungeon Turns
+
+A **dungeon turn** represents approximately ten minutes of game time. While exploring a dungeon, the entire group of adventurers moves as a unit called "the party". During this time they might be investigating a point of interest, moving through corridors, having discussions with NPCs, fighting a battle with something dangerous, trying to disarm a trap, or similar activities. In general, most kinds of activity will use up one dungeon turn.
+
+If you are using a traditional dungeon map, consider that the PCs can carefully move about 100 feet during a turn. This includes them moving carefully through dimly-lit spaces, watching carefully for traps or dangers, stepping over rubble or around collapsed walls, and generally taking their time and being careful. If they are throwing caution to the wind, they might move as much as 200 feet in a turn, BUT this may require a SGT save to avoid blundering into danger.
+
+For each dungeon turn that passes, the Overseer should roll the **Encounter Die** (see below). 
+
+#### Encounter Die
+
+For each dungeon turn that passes, roll 1d6.
+
+| Result | Effect |
+| ------- | -------- |
+| 1 | a random encounter |
+| 2 | signs of passage - someone or something else nearby |
+| 3 | stress - rest (and roll again), add 1 Fatigue or consume a ration  |
+| 4 | light decrement - spend 1 additional use of a torch |
+| 5 | material change in the local environment |
+| 6 | nothing happens |
+
+#### Light
+
+Light is cast by torches, lanterns and by some magic spells. This allows the party to see approximately 20 feet in every direction, if using a traditional dungeon map. For a dungeon diagram, it can be assumed that the torch provides enough light to carefully explore the points of interest and their connections, as long as the party is moving cautiously. 
+
+Under standard Breath & Blood rules, when exploring the dungeon, the _light decrement_ result on the Encounter Die means that a torch degrades or a magic spell fizzles out. The torch must be re-lit (expending another use) or the magic spell must be re-cast.
+
+If you prefer somewhat more realism in your light sources, you can track the number of turns that has passed. Under these alternate rules, a torch lasts for 6 turns and a magical spell lasts for 10 turns. Replace a 3 on the Encounter Die chart with another "nothing happens" and simply ignore this result when it comes up.
+
+#### Dread
+
+Exploring tight, dark and claustrophic spaces can be difficult for the psyche of even the most hardened adventurer. When the PCs confront a particularly terrifying situation (they are surrounded, trapped in a room with no obvious exits, run out of light, enter a very tightly enclosed space, etc) they must resist the creeping onset of Dread. Each PC in the situation should roll a GRT save. On a failure, they suffer 1 Fatigue. For each dungeon turn that this situation persists, they must make an additional GRT save.
 
 ## Bestiary
 
