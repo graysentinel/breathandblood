@@ -909,37 +909,38 @@ Exploring tight, dark and claustrophic spaces can be difficult for the psyche of
 
 ## Bestiary
 
-**Root Goblin**  
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+**Ratling**  
+2 HP, 6 STR, 14 DEX, 8 WIL, sharp stick (d6)
+- Bargain, wheedle, plead and lie until they have a decisive advantage.
+- Hoards stolen shiny goods in claustrophobic underground warrens.
+- Critical Damage: Attempts to grab and haul away any creature that suffers critical damage in a combat.
 
-**Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm_, _Hypnotize_, _Push/Pull_, Shield_)
-- The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
-- Critical damage: leech a part of the victim's soul (1d4 WIL damage).
+**Risen Dead (Detachment)**  
+12 HP, 11 STR, 5 DEX, 5 WIL, stiff arms and bony fingers (d6)
+- Bloated, decrepit or rotten corpses of the unquiet dead.
+- Comes in swarms of slow, mindless advancing menace. Always declares in the Slow PC phase.
 
-**Cobblehounds**  
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+**Spectre**  
+10 HP, 1 Armor, 10 STR, 15 DEX, 10 WIL, spectral hand (d8)
+- Vaguely-shaped forms of arctic-cold mist with grasping hands.
+- Immune to normal damage; can only be harmed by magic or magical weapons.
+- Critical damage: Spirit Drain (lose 1d6 GRT)
 
-**Wood Troll**   
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target's wounds.
+**Wyvern**   
+15 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d6 blast), poison tail (d8)
+- A gray-scaled dragon the size of a packhorse, with a vicious barb on the end of its long whiplike tail.
+- Strikes from above with its long tail to poison its enemies.
+- Poison tail causes total paralysis, requires GRT save to resist
 
-**Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep_, _Teleport_, _Detect Magic_)
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
+**Wild Elf**
+8 HP, 1 Armor, 8 STR, 15 DEX, 12 WIL, elegant hunting bow (d8) or serrated blade (d8), a Spellbook (Choose one: _Sleep_, _Charm_, _Displace_)
+- Cloaked in furs and ragged cloth, masters of moving through woodlands undetected.
+- Strikes from the shadows by surprise, ambush with arrows and alpha strike with blades.
 
-**Boggart**  
-3 HP, 4 STR, 17 DEX, 13 WIL
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.
+**Animated Armor Stand**  
+4 HP, Armor 2, 10 STR, 8 DEX, 2 WIL
+- Rusted armor comes to life wielding ancient weapons attached to wooden frames.
+- Clusters in on a single target, acting as one mind.
 
 ### Creating Monsters
 Use the following template to model any more sophisticated Monster or NPC:
@@ -955,7 +956,7 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+- Remember that Breath is not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
 **Converting from OSR Games**
 - Give 1 HP per HD for most creatures.
