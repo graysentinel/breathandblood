@@ -542,10 +542,24 @@ Basic equipment packages and starting abilities are given below as templates. Th
 
 |                                   |
 | --------------------------------- |
-| Cudgel (d6)                       |
+| Cudgel (d6) or Carving Knife (d6) |
 | Jug of Weak Ale                   |
-| Cookpot                           |
+| Fishing Rod                       |
 | Simple Clothing                   |
+
+
+#### Drifter
+
+**Road-Weary** - Unlike most folk, you've traveled your local area. You know the best routes between settlements and the shortcuts. While traveling on roads in your known area, travel time for you and anyone with you is halved.
+
+**Vigilance** - You know the dangers that lurk at the edges of civilization. While traveling on roads, you always have surprise during a random encounter.
+
+|                                   |
+| --------------------------------- |
+| Walking Stick (d8, bulky)         |
+| Worn Canvas Sack                  |
+| Cookpot                           |
+| Travel-Stained Clothing           |                              
 
 
 #### Fighter
