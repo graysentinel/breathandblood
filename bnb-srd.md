@@ -932,7 +932,7 @@ Exploring tight, dark and claustrophic spaces can be difficult for the psyche of
 **Risen Dead (Detachment)**  
 12 HP, 11 STR, 5 DEX, 5 WIL, stiff arms and bony fingers (d6)
 - Bloated, decrepit or rotten corpses of the unquiet dead.
-- Comes in swarms of slow, mindless advancing menace. Always declares in the Slow PC phase.
+- Comes in swarms of slow, mindless advancing menace. Always declares actions first.
 
 **Spectre**  
 10 HP, 1 Armor, 10 STR, 15 DEX, 10 WIL, spectral hand (d8)
