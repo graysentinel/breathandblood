@@ -572,8 +572,7 @@ Basic equipment packages and starting abilities are given below as templates. Th
 |---------------------------------------|
 |Glaive (d10, bulky)                    |
 |Side Sword (d6)                        |
-|Shield (+1 Armor)                      |
-|Gambeson (+1 Armor)                    |
+|Coat of Mail (+2 Armor, bulky)         |
 |Tobacco Pouch & Pipe                   |
 |Dice Set                               |
 
