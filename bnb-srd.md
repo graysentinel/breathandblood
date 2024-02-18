@@ -666,6 +666,23 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 |Poisonous mushroom                       |
 |Hand Drill                               |
 
+| Delver                                  |
+| --------------------------------------- |
+| Pickaxe (d8)                            |
+| Reinforced Vest (+1 Armor)              |
+| Rope                                    |
+| Iron Spikes (10)                        |
+| Grappling Hook                          |
+| Shovel                                  |
+
+| Machinist                               |
+| --------------------------------------- |
+| Flatbow (d8)                            |
+| Bolts (20)                              |
+| Screwdriver                             |
+| Monkey Wrench                           |
+| Hand Saw                                |
+
 
 | Elf                                     |
 |-----------------------------------------|
@@ -674,6 +691,15 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 |Spellbook (_Charm_ or _Detect Magic_)    |
 |Golden Flute                             |
 |Air Bladder                              |
+
+| Warden                                  |
+| --------------------------------------- |
+| Longbow (d10, bulky)                    |
+| Arrows (20)                             |
+| Falchion (d6)                           |
+| Scale Vest (+1 armor)                   |
+| Aethel Flower (2)                       |
+
 
 [back to index](#index)
 <p></p>
