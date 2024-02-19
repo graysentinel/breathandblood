@@ -666,7 +666,13 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 |Poisonous mushroom                       |
 |Hand Drill                               |
 
-| Delver                                  |
+
+#### Dwarf Delver
+
+**Paths Below** - You're trained and experienced in the ways of the Great Below. When navigating caves, underground paths and underground ruins, you cannot get lost.
+
+**Delver's Tricks** - While underground, you can stay hidden, move without sound, and climb all but the sheerest stone walls with confidence.
+
 | --------------------------------------- |
 | Pickaxe (d8)                            |
 | Reinforced Vest (+1 Armor)              |
@@ -674,8 +680,9 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 | Iron Spikes (10)                        |
 | Grappling Hook                          |
 | Shovel                                  |
+| Hammer & Chisel                         |
 
-| Machinist                               |
+| Dwarf Machinist                         |
 | --------------------------------------- |
 | Flatbow (d8)                            |
 | Bolts (20)                              |
@@ -692,13 +699,32 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 |Golden Flute                             |
 |Air Bladder                              |
 
-| Warden                                  |
+
+#### Gray Elf Warden    
+
+**Ability 1**
+
+**Ability 2**
+
 | --------------------------------------- |
 | Longbow (d10, bulky)                    |
 | Arrows (20)                             |
 | Falchion (d6)                           |
 | Scale Vest (+1 armor)                   |
 | Aethel Flower (2)                       |
+
+
+#### Winter Elf Berserker
+
+**North Wind's Fury** - The first time you suffer Critical Damage during a fight, ignore it. Each subsequent time, make a GRT save. If you succeed, you take the damage but remain on your feet. For each successful save, add 1 Fatigue.
+
+**Cold as the Dead** - You suffer no ill effects from normal cold, and you take half damage from magical cold effects.
+
+| ----------------------------- |
+| Mountain Sword (d10, bulky)   |
+| Leather Vest (+1 Armor)       |
+| Spellbook: _Icy Touch_        |
+| Spiked Boots                  |
 
 
 [back to index](#index)
