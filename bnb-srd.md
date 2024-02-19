@@ -518,6 +518,11 @@ At character creation, choose an ancestry. Most characters will be of human stoc
 | **Talk the Talk** - You know your way around towns and villages. You know where things are found and how to drive a bargain. |
 | **Of Gods and Kings** - The trappings of culture are imprinted upon you. You have a fundamental understanding of your cultures religions and hierarchies. |
 
+| Human - Guttersnipe   |
+| --------------------- |
+| **Ways and Means** - You know how to find the secret ways in civilization, and how to move undetected. |
+| **Thick as Thieves** - You gain a +2 reaction bonus from any other Human Outlaws, and you understand the ways of the gutter as well as anyone. |
+
 #### Fantastic Types
 
 | Elf                   |
