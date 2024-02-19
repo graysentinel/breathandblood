@@ -673,6 +673,7 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 
 **Delver's Tricks** - While underground, you can stay hidden, move without sound, and climb all but the sheerest stone walls with confidence.
 
+||
 | --------------------------------------- |
 | Pickaxe (d8)                            |
 | Reinforced Vest (+1 Armor)              |
@@ -706,6 +707,7 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 
 **Ability 2**
 
+||
 | --------------------------------------- |
 | Longbow (d10, bulky)                    |
 | Arrows (20)                             |
@@ -720,6 +722,7 @@ Basic starting equipment is provided for those who begin as an alternate ancestr
 
 **Cold as the Dead** - You suffer no ill effects from normal cold, and you take half damage from magical cold effects.
 
+||
 | ----------------------------- |
 | Mountain Sword (d10, bulky)   |
 | Leather Vest (+1 Armor)       |
