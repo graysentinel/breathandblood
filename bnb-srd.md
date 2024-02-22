@@ -860,6 +860,9 @@ Expand For Example
 ### Shields Shall Splinter
 A character wielding a shield in combat may decide to sacrifice that shield in order to entirely negate a single incoming attack. The shield is ruined, and must be discarded.
 
+### Raise Your Guard
+On your turn, you may declare your action as "Raise Your Guard". When you do this, you gain +2 Armor until the end of the round. This applies even if you Raise Your Guard during the Slow Phase.
+
 ### Multiple Attackers
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
