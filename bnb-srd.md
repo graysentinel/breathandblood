@@ -569,7 +569,7 @@ Basic equipment packages and starting abilities are given below as templates. Th
 
 #### Fighter
 
-**Any Means Necessary** - Instead of attacking, make a BLD saving throw. On a success, you may blind, knock down, interrupt, or otherwise temporarily disadvantage your opponent.
+**Any Means Necessary** - If you deal 4 or more damage with an attack, you may also blind, knock down, interrupt, or otherwise temporarily disadvantage your opponent.
 
 **Cleave** - When your attack kills an opponent, you may immediately attack again.
 
